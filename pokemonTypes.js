@@ -1,4 +1,4 @@
-const types = {
+export const types = {
     normal: {
         normal: 1,
         fire: 1,
@@ -52,7 +52,13 @@ const types = {
         flying: 1,
         psychic: 1,
         bug: 1,
-        rock: 2, //complete
+        rock: 2,
+        ghost: 1,
+        dragon: .5,
+        dark: 1,
+        steel: 1,
+        fairy: 1 //complete
+
     },
     electric: {
         normal: 1,
