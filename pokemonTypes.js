@@ -1,3 +1,12 @@
+/*
+    types{
+        [type of attack]:
+        {   
+            [type of defense]: multiplier
+        }
+    }
+*/
+
 export const types = {
     normal: {
         normal: 1,
